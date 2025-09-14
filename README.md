@@ -4,4 +4,4 @@ Key features:
 - REST API in Python allowing HTTP communication with JSON input/output.
 - SQLite database using triggers and transactions to maintain consistency and enforce constraints.
 - Carefully designed schema in BCNF, with foreign keys and join tables to model relationships.
-- Input validation, error handling and resistance against SQL injection.
+- Input validation, error handling and pretection against SQL injection.
